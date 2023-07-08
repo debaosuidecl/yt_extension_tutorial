@@ -1,0 +1,3 @@
+
+KEY PARTIES OF A CHROME EXTENSION
+popup.js <---> tab (content script) <---> background.js script
